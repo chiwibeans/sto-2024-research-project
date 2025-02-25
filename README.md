@@ -1,0 +1,1 @@
+My nonprofit SafeTeensOnline (STO) sponsored a survey of ~6,000 middle and high schoolers in India in mid-2024. The survey was conducted in 19 schools across 4 states. I created this application to facilitate my team in their follow-up research to examine relationships between variables using machine learning approaches. 
